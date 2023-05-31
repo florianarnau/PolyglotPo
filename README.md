@@ -1,4 +1,4 @@
-# PolyglotPo
+# PolyglotPo 🚧
 
 PolyglotPo est un script Python qui permet la traduction automatisée de fichiers .po en plusieurs langues en utilisant la bibliothèque Deep Translator. Il élimine le besoin de traduction manuelle, vous faisant gagner du temps et des efforts.
 
